@@ -1,4 +1,5 @@
 body{
+    background-color: #97d9d7;
     margin:0;
     display: flex;
     flex-direction: column;
@@ -38,7 +39,7 @@ body{
 .btn{
     position: absolute;
     bottom:-80px;
-    background-color: orangered;
+    background-color: rgb(220, 94, 155);
     color:white;
     padding:10px 20px;
     border-radius: 5px;
